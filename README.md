@@ -1,1 +1,1 @@
-"#CIS126 Voting Program" 
+# CIS126 Voting Program
